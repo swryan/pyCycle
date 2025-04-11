@@ -39,3 +39,4 @@ jobs:
         # this is just for testing, remove for flight:
         with:
           repository-url: https://test.pypi.org/legacy/
+          verbose: true
